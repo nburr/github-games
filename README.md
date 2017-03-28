@@ -1,8 +1,8 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub.  Adding a bit more text.
 
-You can play the game at: http://githubschool.github.io/github-games/
+You can play the game at: https://nburr.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
